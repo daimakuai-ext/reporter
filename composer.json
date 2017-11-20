@@ -2,8 +2,8 @@
     "name": "daimakuai-ext/reporter",
     "description": "Exception reporter for laravel",
     "type": "library",
-    "keywords": ["daimakuai-admin", "exception", "reporter"],
-    "homepage": "https://github.com/laravel-ext/reporter",
+    "keywords": ["daimakuai", "exception", "reporter","laravel"],
+    "homepage": "https://github.com/daimakuai-ext/reporter",
     "license": "MIT",
     "authors": [
         {
