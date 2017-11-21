@@ -40,7 +40,7 @@ trait BootExtension
 
     public static function importAssets()
     {
-        Admin::js('/vendor/laravel-admin-reporter/prism/prism.js');
-        Admin::css('/vendor/laravel-admin-reporter/prism/prism.css');
+        Admin::js('/vendor/daimakuai-ext-reporter/prism/prism.js');
+        Admin::css('/vendor/daimakuai-ext-reporter/prism/prism.css');
     }
 }

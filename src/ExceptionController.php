@@ -105,7 +105,7 @@ class ExceptionController
 
             array_pop($frames);
 
-            $view = view('laravel-admin-reporter::exception', compact('exception', 'frames', 'cookies', 'headers'));
+            $view = view('daimakuai-ext-reporter::exception', compact('exception', 'frames', 'cookies', 'headers'));
 
             $content->body($view);
         });

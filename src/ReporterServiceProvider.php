@@ -11,12 +11,12 @@ class ReporterServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->loadViewsFrom(__DIR__.'/../resources/views', 'laravel-admin-reporter');
+        $this->loadViewsFrom(__DIR__.'/../resources/views', 'daimakuai-ext-reporter');
 
         if ($this->app->runningInConsole()) {
             $this->publishes(
-                [__DIR__.'/../resources/assets/' => public_path('vendor/laravel-admin-reporter')],
-                'laravel-admin-reporter'
+                [__DIR__.'/../resources/assets/' => public_path('vendor/daimakuai-ext-reporter')],
+                'daimakuai-ext-reporter'
             );
 
             $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
