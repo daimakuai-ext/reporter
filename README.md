@@ -3,7 +3,7 @@ Exception reporter for daimakuai-admin
 
 This tool stores the exception information into the database and provides a developer-friendly web interface to view the exception information.
 
-[![StyleCI](https://styleci.io/repos/97900053/shield?branch=master)](https://styleci.io/repos/97900053)
+[![StyleCI](https://styleci.io/repos/99999/shield?branch=master)](https://styleci.io/repos/9999)
 [![Packagist](https://img.shields.io/packagist/l/daimakuai-ext/reporter.svg?maxAge=2592000)](https://packagist.org/packages/daimakuai-ext/reporter)
 [![Total Downloads](https://img.shields.io/packagist/dt/daimakuai-ext/reporter.svg?style=flat-square)](https://packagist.org/packages/daimakuai-ext/reporter)
 [![Pull request welcome](https://img.shields.io/badge/pr-welcome-green.svg?style=flat-square)]()
