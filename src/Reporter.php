@@ -2,7 +2,6 @@
 
 namespace Jblv\Admin\Reporter;
 
-
 use Illuminate\Http\Request;
 use Jblv\Admin\Extension;
 
